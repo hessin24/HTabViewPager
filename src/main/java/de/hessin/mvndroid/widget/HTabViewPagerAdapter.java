@@ -1,4 +1,4 @@
-package de.hessin.mvndroid.widget
+package de.hessin.mvndroid.widget;
 
 
 import android.content.Context;
